@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "dfsyntax",
+      "client_hooks": {
+        "aceInitInnerdocbodyHead": "ep_dfsyntax/static/js/dfsyntax",
+        "acePostWriteDomLineHTML": "ep_dfsyntax/static/js/dfsyntax"
+      }
+    }
+  ]
+}
